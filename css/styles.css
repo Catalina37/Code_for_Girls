@@ -1,7 +1,7 @@
 /* CSS comment */
 
 body {
-  color: rgb(65, 75, 86);
+  color: rgb(70, 75, 86);
   font-family: arial;
   margin: 0px;
 }
@@ -70,8 +70,4 @@ li{
 li.hover{
   font-size: 1.2em;
   transition:  0.6s ease;
-}
-
-div.box{
-  font-size: 13px;
 }
